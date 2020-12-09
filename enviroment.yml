@@ -1,6 +1,6 @@
-conda activate example-environment
-conda env export --from-history -f environment.yml
-
+name: example-environment
+channels:
+  - conda-forge
 dependencies:
   - numpy
   - matplotlib
