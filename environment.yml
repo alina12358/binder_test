@@ -6,4 +6,4 @@ dependencies:
   - matplotlib
   - seaborn
   - pandas
-  - glob
+ 
